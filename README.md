@@ -18,6 +18,6 @@ Check out the full step-by-step guide here:
 
 ## Tech Stack
 
-- **Next.js** 15.3.3
-- **Zustand** 5.0.5
-- **Tailwind CSS** 4
+- Next.js 15.3.3
+- Zustand 5.0.5
+- Tailwind CSS 4
